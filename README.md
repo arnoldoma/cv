@@ -1,5 +1,4 @@
-# cv
-Mi Curriculum Vitae
+# Mi Curriculum Vitae
 
 Aqui te cuento sobre 
 mi experiencia, 
